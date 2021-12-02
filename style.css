@@ -24,14 +24,15 @@ body {
 
 button {
   cursor: pointer;
-  outline: none;
   width: 400px;
   height: 80px;
   font-family: Courier, monospace;
   font-size: 40px;
-  color: rgb(247, 243, 243);
+  color: rgb(250, 238, 65);
+  ;
   background: #3518a0;
-  border: none;
+  border-color: rgb(250, 238, 65);
+  border-width: thick;
   border-radius: 5px;
   box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.2);
 }
